@@ -3,7 +3,6 @@
 ## Variables and Mutability
 
 - Default variables are immutable
-
   ```rust
   let x = 10;
   ```
@@ -34,6 +33,7 @@
      let spaces = spaces.len(); // type is number
  ```
  > we’re not allowed to mutate a variable’s type:
+
  > ```rust
 let mut sapce= "   ";
 let space= space.len(); // compile failed
