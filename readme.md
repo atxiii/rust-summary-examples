@@ -47,7 +47,8 @@ let space= space.len(); // compile failed
 A scalar type represents a single value:
 
 - Integers
-  | Length | Signed | Unsigned |
+
+| Length | Signed | Unsigned |
 |--------|--------|--------|
 |8-bit   |   	i8|    	 u8|
 |16-bit	|i16	|u16|
