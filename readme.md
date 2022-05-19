@@ -33,8 +33,7 @@
      let spaces = spaces.len(); // type is number
  ```
  > we’re not allowed to mutate a variable’s type:
-
- > ```rust
+```rust
 let mut sapce= "   ";
 let space= space.len(); // compile failed
 ```
